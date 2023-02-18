@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siavashmosadegh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reactjs and Nextjs
+- 🌱 I’m currently making web sites using React.js And Express.js
 - 📫 How to reach me s.mosadegh@rocketmail.com
 
 <!---
